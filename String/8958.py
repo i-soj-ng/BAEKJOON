@@ -1,3 +1,5 @@
+# 문제: https://www.acmicpc.net/problem/8958
+
 n = int(input())
 quiz_result = [list(input()) for i in range(n)]
 
